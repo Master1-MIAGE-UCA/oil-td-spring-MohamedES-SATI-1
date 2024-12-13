@@ -1,0 +1,25 @@
+## Prerequisites
+
+- Java 17 or higher
+- Maven 3.6.0 or higher
+
+## Getting Started
+
+1. Clone the repository:
+   git clone https://github.com/Master1-MIAGE-UCA/oil-td-spring-MohamedES-SATI-1.git
+   cd oil-td-spring-MohamedES-SATI-1
+
+    Roll a Single Dice
+  URL: /rollDice
+    Method: GET
+
+    Roll Multiple Dice
+ URL: /rollDices/{X}
+ Method: GET
+
+    Get Dice Roll Logs
+ URL: /diceLogs
+ Method: GET
+
+    Swagger UI
+ http://localhost:8081/swagger-ui.html
